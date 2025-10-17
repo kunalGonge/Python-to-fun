@@ -1,6 +1,6 @@
 #In this we will see more about arithmetic operator
-num1 = 8
-num2 = 6
+num1 = int(input ('what is num1?'))
+num2 = int(input ('what is num2?'))
 
 #for add +
 print(num1 + num2)
