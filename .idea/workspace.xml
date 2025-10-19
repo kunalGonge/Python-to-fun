@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd8fe293-dce6-41e8-9cbd-90224d1bd516" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logical operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/logical operator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <workItem from="1760714826312" duration="2560000" />
       <workItem from="1760719234784" duration="2820000" />
       <workItem from="1760784957910" duration="999000" />
-      <workItem from="1760876272748" duration="1291000" />
+      <workItem from="1760876272748" duration="2358000" />
     </task>
     <servers />
   </component>
@@ -95,6 +94,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/my_py_s$simple_print.coverage" NAME="simple print Coverage Results" MODIFIED="1760716814574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/my_py_s$logical_operator.coverage" NAME="logical operator Coverage Results" MODIFIED="1760878038947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/my_py_s$logical_operator.coverage" NAME="logical operator Coverage Results" MODIFIED="1760878789283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
